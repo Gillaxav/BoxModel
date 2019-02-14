@@ -32,7 +32,7 @@ padding-bottom: 50px;
 }
 /*order is alwasy TOP RIGHT BOTTOM LEFT*/
 
-#mixPadding{
+#mixedPadding{
   padding: 10px 40px 100px 20px;
 }
 
@@ -112,4 +112,34 @@ width: 35%;
 }
 
 
+.defaultPadding{
+
+padding: 10px;
+
+}
+
+.defaultMargin{
+
+    margin:   0px 30px;
+}
+
+.defaultBorder{
+
+    border: 3px ridge fuchsia;
+
+}
+
+/* SELECTS ELEMENTS INSIDE OTHER ELEMENTS*/
+
+/*section h3{
+    font-size: 42px;
+}
+
+section header h3{
+    font-size: 30px;
+}
+/* SELECT MULTIPLE ELEMENT */
+section article p {
+    color: goldenrod;
+}
 
